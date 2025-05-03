@@ -14,7 +14,7 @@ I’m passionate about building intelligent systems and applying AI to solve rea
 <h2 align="left">About me:</h2>  
 
 - 📚 I'm a 4th-year student at Ho Chi Minh City University of Technology and Education, majoring in Artificial Intelligence, with GPA 3.54
-- 🎯 Goals: To become a Senior AI Engineer within the next 3 years — currently working at Viettel as an AI Engineer, with 1 year of experience in Generative AI
+- 🎯 Goals: To become a Senior AI Engineer within the next 3 years
 - 📫 How to reach me **quangthien11@gmail.com**
 
 <h2 align="left">Connect with me:</h2>  
