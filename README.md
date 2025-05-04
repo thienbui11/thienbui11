@@ -5,10 +5,7 @@
 <p align="left"> Hi, I'm a final-year student majoring in Artificial Intelligence at Ho Chi Minh City University of Technology and Education (HCMUTE).
 I’m passionate about building intelligent systems and applying AI to solve real-world problems.
 
-🔬 I’m the co-author of an article in the Issue of the Journal of Technical Education Science(JTE) with the topic “A LLM-BASED CHATBOT AS Q&A SYSTEM FOR VIETNAMESE HIGHER EDUCATION ENVIRONMENT” \href{https://drive.google.com/file/d/10jvTbu70Pf-RvUxmAVMzqRvaWaQIPcWk/view?usp=sharing}{\textcolor{blue}{(\textbf{LINK PAPER})
-
 🎯 I'm currently seeking opportunities for a full-time AI Engineer position where I can continue to grow, contribute to meaningful projects, and work with cutting-edge AI/ML tools.</p>
-
 <h2 align="left">About me:</h2>  
 
 - 📚 I'm a 4th-year student at Ho Chi Minh City University of Technology and Education, majoring in Artificial Intelligence, with GPA 3.54
