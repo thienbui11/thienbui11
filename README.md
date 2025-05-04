@@ -7,8 +7,6 @@ I’m passionate about building intelligent systems and applying AI to solve rea
 
 🔬 I’m the co-author of a research paper titled:
 "A LLM-based Chatbot as Q&A System for Vietnamese Higher Education Environment"
-💼 I recently completed a 3-month internship at SPLUS SOFTWARE as a Developer Intern, where I gained hands-on experience working with AI technologies, backend development, and chatbot systems.
-
 🎯 I'm currently seeking opportunities for a full-time AI Engineer position where I can continue to grow, contribute to meaningful projects, and work with cutting-edge AI/ML tools.</p>
 
 <h2 align="left">About me:</h2>  
