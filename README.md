@@ -14,7 +14,7 @@ I am eager to contribute my technical skills, problem-solving mindset, and passi
 - 💻 Interested in Backend Development, System Design, and Scalable Architectures  
 - 🔧 Technical skills: Python (Django, FastAPI, Flask), Java (Spring Boot, Servlet), SQL/NoSQL Databases, Docker  
 - 🌱 Currently improving my skills in microservices, cloud deployment, and clean architecture  
-- 📫 Reach me at **quangthien11@gmail.com** 
+- 📫 Reach me at **quangthien112003@gmail.com** 
 
 <h2 align="left">Connect with me:</h2>  
 <p align="left">  
